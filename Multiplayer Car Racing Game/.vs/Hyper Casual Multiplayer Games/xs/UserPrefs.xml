@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{E747F9BE-4791-8F93-A34A-CC7090E11571}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Player/Car.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Managers/GradientBGManager.cs" Line="20" Column="37" />
+      <File FileName="Assets/Scripts/Managers/LobbyBGManager.cs" Line="10" Column="37" />
+      <File FileName="Assets/Scripts/Levels/Lobby.cs" Line="19" Column="47" />
+      <File FileName="Assets/Scripts/Levels/LevelLoader.cs" Line="19" Column="45" />
+      <File FileName="Assets/Scripts/Managers/GameManager.cs" Line="9" Column="37" />
+      <File FileName="Assets/Scripts/Player/Car.cs" Line="27" Column="57" />
+      <File FileName="Assets/Scripts/Player/Speedometer.cs" Line="19" Column="24" />
+      <File FileName="Assets/VehicleTools/Vehicle Tools/Scripts/CarSwitcher.cs" Line="16" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Hyper Casual Multiplayer Games" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4c362b61-ad33-4bf9-8cda-56e5a19b8702" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
